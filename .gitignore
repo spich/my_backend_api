@@ -11,3 +11,6 @@
 /.pm2/
 /.ssh/
 /appwrite/
+/my_backend_api/serviceAccount.json
+/my_backend_api/.env
+/my_backend_api/utils/firebase_admin_key.json
